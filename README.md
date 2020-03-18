@@ -11,6 +11,6 @@ En az 1000 oyun üzerinde çalışıldı.
 
 <object data="https://github.com/Sillyon/playStoreGames-Puan-Tahmini/blob/master/Project_Report_of_12011015_Fatih_Comak_and_12011021_Halil_Ibrahim_Ozdemir.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/Sillyon/playStoreGames-Puan-Tahmini/blob/master/Project_Report_of_12011015_Fatih_Comak_and_12011021_Halil_Ibrahim_Ozdemir.pdf">
-        <p>This browser does not support PDFs. Please go to PDF to view it: <a href="https://github.com/Sillyon/playStoreGames-Puan-Tahmini/blob/master/Project_Report_of_12011015_Fatih_Comak_and_12011021_Halil_Ibrahim_Ozdemir.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please go to PDF to view it: <a href="https://github.com/Sillyon/playStoreGames-Puan-Tahmini/blob/master/Project_Report_of_12011015_Fatih_Comak_and_12011021_Halil_Ibrahim_Ozdemir.pdf">View PDF</a>.</p>
     </embed>
 </object>
